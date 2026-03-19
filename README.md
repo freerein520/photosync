@@ -15,6 +15,18 @@ With PhotoSync Desktop, you can easily set up a local file transfer service on y
 
 Please visit the **[Releases](../../releases)** page to download the latest installer for Windows and macOS.
 
+## Included In This Release Folder
+
+- Desktop executables/installers for Windows and macOS
+- Public README for release usage
+- Privacy policy for app-store review: `PRIVACY_POLICY.md`
+
+## Privacy Policy
+
+For Google Play and user reference, see:
+
+- [PRIVACY_POLICY.md](./PRIVACY_POLICY.md)
+
 ## Support
 
 If you encounter any issues or have suggestions, please contact us:
